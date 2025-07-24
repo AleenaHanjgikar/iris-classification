@@ -121,8 +121,11 @@ Confusion Matrix:
 This beginner-level project demonstrates:
 
 Data preprocessing
+
 Multiple ML model comparison
+
 Hyperparameter tuning
+
 Interpretation of model results
 
 
