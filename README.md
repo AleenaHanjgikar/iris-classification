@@ -114,11 +114,21 @@ Confusion Matrix:
 
 <img width="451" height="541" alt="image" src="https://github.com/user-attachments/assets/cfae09f4-7c0f-4659-a504-c04fc49108c9" />
 
+Sepal Width vs Length:
 
+<img width="579" height="459" alt="Sepal_WL" src="https://github.com/user-attachments/assets/4f2dd115-855d-4ce3-a8d3-4e7858666ad8" />
+
+Feature Importance
+
+<img width="520" height="311" alt="Feature Importance" src="https://github.com/user-attachments/assets/e304648d-1b9f-4dc6-bbad-fe061666e9b2" />
+
+PCA Iris Dataset
+
+<img width="573" height="455" alt="PCA_Iris_Dataset" src="https://github.com/user-attachments/assets/58bc4885-58ed-424e-b97f-eff8d6cbb82a" />
 
 
 🙌 Conclusion
-This beginner-level project demonstrates:
+This project demonstrates:
 
 Data preprocessing
 
